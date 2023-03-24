@@ -6,7 +6,7 @@ import os
 import logging, sys
 logging.disable(sys.maxsize)
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'sk-'
 
 # Loading from a directory
 location="./documents"
