@@ -6,7 +6,7 @@ import os
 import logging, sys
 logging.disable(sys.maxsize)
 
-os.environ['OPENAI_API_KEY'] = 'sk-'
+os.environ['OPENAI_API_KEY'] = 'sk-###GET FROM MOODLE###'
 
 # Loading from a directory
 location="./documents"
